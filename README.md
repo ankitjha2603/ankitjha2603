@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my website
+<!-- 🔭 I’m currently working on my website-->
 - 🌱 I’m currently learning django
 - 💬 Ask me about ...
 - 📫 How to reach me: frommindtopage@gmail.com
