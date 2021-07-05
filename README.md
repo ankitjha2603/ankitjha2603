@@ -2,7 +2,9 @@
 ## Name : Ankit kumar jha
 <!-- 🔭 I’m currently working on my website-->
 - 🌱 I’m currently learning react
-- 💬 Ask me about anything
+<!--
+- 💬 Ask me about
+-->
 - 📫 How to reach me: frommindtopage@gmail.com
 # knownknowledge of
 * web devlopment
