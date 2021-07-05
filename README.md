@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## Name : Ankit kumar jha
 <!-- 🔭 I’m currently working on my website-->
-- 🌱 I’m currently learning django
-- 💬 Ask me about ...
+- 🌱 I’m currently learning react
+- 💬 Ask me about anything
 - 📫 How to reach me: frommindtopage@gmail.com
 # knownknowledge of
 * web devlopment
