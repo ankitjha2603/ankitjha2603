@@ -6,6 +6,7 @@
 - 💬 Ask me about
 -->
 - 📫 How to reach me: ankitjha2603@gmail.com
+- Admin of https://github.com/organizations/frommindtopage
 # knownknowledge of
 * web devlopment
     * Front end
