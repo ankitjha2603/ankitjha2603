@@ -5,7 +5,7 @@
 <!--
 - 💬 Ask me about
 -->
-- 📫 How to reach me: frommindtopage@gmail.com
+- 📫 How to reach me: ankitjha2603@gmail.com
 # knownknowledge of
 * web devlopment
     * Front end
