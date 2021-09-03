@@ -2,11 +2,12 @@
 ## Name : Ankit kumar jha
 <!-- 🔭 I’m currently working on my website-->
 - 🌱 I’m currently learning react
+- 📫 How to reach me: ankitjha2603@gmail.com
+- Python programmer
 <!--
 - 💬 Ask me about
--->
-- 📫 How to reach me: ankitjha2603@gmail.com
-- Admin of https://github.com/organizations/frommindtopage
+
+
 # knownknowledge of
 * web devlopment
     * Front end
@@ -27,6 +28,6 @@
     * panda
     * matplotlib
     * sklearn
-
+-->
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frommindtopage&layout=compact"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=frommindtopage&theme=algolia&show_icons=true"></img>-->
