@@ -30,4 +30,4 @@
     * sklearn
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2603&layout=compact"></img>  
-<img src="https://github-readme-stats.vercel.app/api?username=ankitjha2603&theme=algolia&show_icons=true"></img>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=ankitjha2603&theme=algolia&show_icons=true"></img>-->
