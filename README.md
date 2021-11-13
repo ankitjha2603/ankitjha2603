@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Name : Ankit kumar jha
 <!-- 🔭 I’m currently working on my website-->
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning laravel
 - 📫 How to reach me: ankitjha2603@gmail.com
 - Python programmer
 <!--
@@ -31,3 +31,9 @@
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2603&layout=compact"></img>  
 <!--<img src="https://github-readme-stats.vercel.app/api?username=ankitjha2603&theme=algolia&show_icons=true"></img>-->
+# contact me
+- [Github](https://github.com/ankitjha2603)
+- [LinkedIn](https://linkedin.com/in/ankitjha2603)
+- [Stack Overflow](https://stackoverflow.com/users/17047946/ankit-kumar-jha)
+- [Instagram](https://www.instagram.com/kumarjha2603)
+- <a href = "mailto: ankitjha2603@gmail.com">Gmail</a>
