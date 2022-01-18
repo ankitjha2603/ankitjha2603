@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Name : Ankit kumar jha
-<!-- 🔭 I’m currently working on my website-->
-- 🌱 I’m currently learning laravel
+<!-- 🔭 I’m currently working on my ERP project of laravel-->
+- 🌱 I’m currently learning java
 - 📫 How to reach me: ankitjha2603@gmail.com
 - Python programmer
 <!--
