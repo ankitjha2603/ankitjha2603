@@ -5,8 +5,8 @@
 - Python programmer
 - Actively Practicing 3D Website Development
 
-<img src="https://ankitjha2603.github.io/ankitjha2603/ankitjha2603 resume page-1.jpg" width="450px"></img>
-<img src="https://ankitjha2603.github.io/ankitjha2603/ankitjha2603 resume page-2.jpg" width="450px"></img>
+<img src="https://ankitjha2603.github.io/ankitjha2603/ankitjha2603 resume page-1.jpg?t=1" width="450px"></img>
+<img src="https://ankitjha2603.github.io/ankitjha2603/ankitjha2603 resume page-2.jpg?t=2" width="450px"></img>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2603&layout=donut"></img>
