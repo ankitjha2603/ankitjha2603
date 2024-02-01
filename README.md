@@ -1,4 +1,3 @@
-<<<<<<< HEAD:README copy.md
 ### Hi there 👋
 
 ## Name : Ankit kumar jha
@@ -62,8 +61,9 @@ p.leetcode-210DayCodeChallenge>a:hover>* {
   text-decoration: underline;
 }
 </style>-->
-<!------------------------------------------>
-=======
+
+# <!------------------------------------------>
+
 ### Hi there 👋
 
 ## Name : Ankit kumar jha
@@ -128,4 +128,5 @@ p.leetcode-210DayCodeChallenge>a:hover>* {
 }
 </style>-->
 <!------------------------------------------>
->>>>>>> 8074ea6dd2052b96e2ea59010ab981e1336ba138:README.md
+
+> > > > > > > 8074ea6dd2052b96e2ea59010ab981e1336ba138:README.md
