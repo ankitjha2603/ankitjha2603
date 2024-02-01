@@ -2,61 +2,62 @@
 
 ## Name : Ankit kumar jha
 
-- Python programmer
-- Actively Practicing 3D Website Development
+<p class="leetcode-210DayCodeChallenge">
+  Correcting doing 
+  <a href="https://www.linkedin.com/feed/hashtag/?keywords=210daycodechallenge" target="_blank">
+      <span class="blue">#210Day</span>
+      <span class="orange">CodeChallenge</span>
+  </a>
+  with leetcode
+</p>
+<!------------------------------------------>
+<!-- SECTION:  leetcode badge-->
 
-<img src="ankitjha2603 resume page-1.jpg?t=1705" width="300px"></img>
-<img src="ankitjha2603 resume page-2.jpg?t=1705" width="300px"></img>
+<img src="leetcode_badge/2024-01.gif" width="50px"></img>
+<img src="leetcode_badge/LeetCode_75.gif" width="50px"></img>
+<img src="leetcode_badge/Top_100_Liked.gif" width="50px"></img>
+<img src="leetcode_badge/Top_Interview_150.gif" width="50px"></img>
 
+<!------------------------------------------>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2603&layout=donut"></img>
+<!------------------------------------------>
+<!-- SECTION: contact me -->
 
-# Technology known
+## 💻 Coding Profiles
 
-`Python`
-`HTML & CSS`
-`3D Web development`
-`SCSS/SASS`
-`Javascript`
-`SEO/SEM`
-`SQL`
-`Machine Learning`
-`Firebase`
-`DSA`
-`Php`
-`Node.js`
+- **LeetCode:** [ankitjha2603](https://leetcode.com/ankitjha2603/)
+- **GeeksforGeeks:** [ankitjha2603](https://auth.geeksforgeeks.org/user/ankitjha2603)
 
-# libraries and frameworks
+## 🌐 Online Presence
 
-`Three.js`
-`React.js`
-`Cannon.js`
-`YUKA`
-`Dat-gui`
-`Flask`
-`jQuery`
-`Scikit-Learn`
-`Selenium`
-`tkinter`
-`Beautiful Soup`
-`Django`
-`Laravel`
+- **Website:** [ankitjha2603.github.io](https://ankitjha2603.github.io/)
+- **Website:** [ankitjha2603](https://linkedin.com/in/ankitjha2603)
+- **YouTube:** [CognitiveAnkit](https://www.youtube.com/@cognitiveAnkit)
+- **Instagram:** [cognitiveAnkit](https://www.instagram.com/cognitiveAnkit/)
+- **Email:** <a href="mailto:ankitjha2603@gmail.com">ankitjha2603@gmail.com</a>
 
-# Tools
+<!------------------------------------------>
 
-`PhpMyAdmin`
-`Docker/Docker swarm`
-`Adobe XD`
-`Bootstrap`
-`Git & GitHub`
-`Google Analytics`
+<!------------------------------------------>
+<!-- SECTION: Style -->
+<style>
+  p.leetcode-210DayCodeChallenge {
+  font-weight: 500;
+  font-size: 1.1em !important;
+  margin-top: 0px !important;
+}
 
-# contact me
+p.leetcode-210DayCodeChallenge>a>.blue {
+  color: #09b3e4 !important;
+}
 
-- [Website](https://ankitjha2603.github.io/)
-- [Github](https://github.com/ankitjha2603)
-- [LinkedIn](https://linkedin.com/in/ankitjha2603)
-- [Youtube](https://www.youtube.com/@cognitiveAnkit)
-- [Stack Overflow](https://stackoverflow.com/users/17047946/ankit-kumar-jha)
-- [Instagram](https://www.instagram.com/cognitiveAnkit/)
-- <a href = "mailto: ankitjha2603@gmail.com">Gmail</a>
+p.leetcode-210DayCodeChallenge>a>.orange {
+  color: #f57d11 !important;
+  margin-left: -4px;
+}
+
+p.leetcode-210DayCodeChallenge>a:hover>* {
+  text-decoration: underline;
+}
+</style>
+<!------------------------------------------>
