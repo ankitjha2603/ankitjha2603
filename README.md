@@ -40,6 +40,7 @@
 
 <!------------------------------------------>
 <!-- SECTION: Style -->
+<!--
 <style>
   p.leetcode-210DayCodeChallenge {
   font-weight: 500;
@@ -59,5 +60,5 @@ p.leetcode-210DayCodeChallenge>a>.orange {
 p.leetcode-210DayCodeChallenge>a:hover>* {
   text-decoration: underline;
 }
-</style>
+</style>-->
 <!------------------------------------------>
