@@ -13,10 +13,12 @@
 <!------------------------------------------>
 <!-- SECTION:  leetcode badge-->
 
+<img src="leetcode_badge/2024-50.gif" width="50px"></img>
 <img src="leetcode_badge/2024-01.gif" width="50px"></img>
 <img src="leetcode_badge/LeetCode_75.gif" width="50px"></img>
 <img src="leetcode_badge/Top_100_Liked.gif" width="50px"></img>
 <img src="leetcode_badge/Top_Interview_150.gif" width="50px"></img>
+<img src="leetcode_badge/Introduction_to_Pandas.gif" width="50px"></img>
 
 <!------------------------------------------>
 
