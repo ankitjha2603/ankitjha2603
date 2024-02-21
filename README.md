@@ -22,8 +22,6 @@
 <br>
 <br>
 <img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity"></img>
-<img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity?theme=dark"></img>
-<img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity?theme=forest"></img>
 <!------------------------------------------>
 
 <!------------------------------------------>
