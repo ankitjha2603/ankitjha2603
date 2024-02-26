@@ -2,25 +2,25 @@
   <img src="thumbnail.png" alt="ankitjha2603">
 </p>
 
-## Name : Ankit kumar jha
+<!------------------------------------------>
+<!-- SECTION:  leetcode badge-->
+
+# Leetcode
 
 <p class="leetcode-210DayCodeChallenge">
-  Correcting doing 
-  <a href="https://www.linkedin.com/feed/hashtag/?keywords=210daycodechallenge" target="_blank">
+  currently doing
+  <a href="https://www.linkedin.com/feed/hashtag/?keywords=210daycodechallenge" target="_blank" class="box">
       <img src="210DayCodeChallenge.png?t=2" width="210px"></img>
   </a>
   with leetcode
 </p>
 
-<!------------------------------------------>
-<!-- SECTION:  leetcode badge-->
-
-<img src="leetcode_badge/2024-50.gif" width="50px"></img>
-<img src="leetcode_badge/2024-01.gif" width="50px"></img>
-<img src="leetcode_badge/LeetCode_75.gif" width="50px"></img>
-<img src="leetcode_badge/Top_100_Liked.gif" width="50px"></img>
-<img src="leetcode_badge/Top_Interview_150.gif" width="50px"></img>
-<img src="leetcode_badge/Introduction_to_Pandas.gif" width="50px"></img>
+<img src="leetcode_badge/2024-50.gif" width="40px"></img>
+<img src="leetcode_badge/2024-01.gif" width="40px"></img>
+<img src="leetcode_badge/LeetCode_75.gif" width="40px"></img>
+<img src="leetcode_badge/Top_100_Liked.gif" width="40px"></img>
+<img src="leetcode_badge/Top_Interview_150.gif" width="40px"></img>
+<img src="leetcode_badge/Introduction_to_Pandas.gif" width="40px"></img>
 <br>
 <br>
 <img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity"></img>
@@ -43,30 +43,6 @@
 - **Instagram:** [cognitiveAnkit](https://www.instagram.com/cognitiveAnkit/)
 - **Email:** <a href="mailto:ankitjha2603@gmail.com">ankitjha2603@gmail.com</a>
 
-<!------------------------------------------>
-
-<!------------------------------------------>
-<!-- SECTION: Style -->
 <!--
-<style>
-  p.leetcode-210DayCodeChallenge {
-  font-weight: 500;
-  font-size: 1.1em !important;
-  margin-top: 0px !important;
-}
 
-p.leetcode-210DayCodeChallenge>a>.blue {
-  color: #09b3e4 !important;
-}
-
-p.leetcode-210DayCodeChallenge>a>.orange {
-  color: #f57d11 !important;
-  margin-left: -4px;
-}
-
-p.leetcode-210DayCodeChallenge>a:hover>* {
-  text-decoration: underline;
-}
-</style>-->
-
-<!------------------------------------------>
+-->
