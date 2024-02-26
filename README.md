@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="thumbnail.png" alt="ankitjha2603">
+</p>
 
 ## Name : Ankit kumar jha
 
@@ -22,6 +24,7 @@
 <br>
 <br>
 <img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity"></img>
+
 <!------------------------------------------>
 
 <!------------------------------------------>
