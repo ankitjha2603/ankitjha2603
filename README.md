@@ -23,7 +23,9 @@
 <img src="leetcode_badge/Introduction_to_Pandas.gif" width="40px"></img>
 <br>
 <br>
-<img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity"></img>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity"></img>
+<a>
 
 <!------------------------------------------>
 
