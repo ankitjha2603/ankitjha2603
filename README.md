@@ -16,6 +16,7 @@
 </p>
 
 <img src="leetcode_badge/2024-50.gif" width="40px"></img>
+<img src="leetcode_badge/2024-02.gif" width="40px"></img>
 <img src="leetcode_badge/2024-01.gif" width="40px"></img>
 <img src="leetcode_badge/LeetCode_75.gif" width="40px"></img>
 <img src="leetcode_badge/Top_100_Liked.gif" width="40px"></img>
