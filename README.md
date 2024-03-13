@@ -15,18 +15,32 @@
   with leetcode
 </p>
 
-<img src="leetcode_badge/2024-50.gif" width="40px"></img>
-<img src="leetcode_badge/2024-02.gif" width="40px"></img>
-<img src="leetcode_badge/2024-01.gif" width="40px"></img>
-<img src="leetcode_badge/LeetCode_75.gif" width="40px"></img>
-<img src="leetcode_badge/Top_100_Liked.gif" width="40px"></img>
-<img src="leetcode_badge/Top_Interview_150.gif" width="40px"></img>
-<img src="leetcode_badge/Introduction_to_Pandas.gif" width="40px"></img>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/2024-50.gif" width="40px"></img>
+</a>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/2024-02.gif" width="40px"></img>
+</a>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/2024-01.gif" width="40px"></img>
+</a>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/LeetCode_75.gif" width="40px"></img>
+</a>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/Top_100_Liked.gif" width="40px"></img>
+</a>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/Top_Interview_150.gif" width="40px"></img>
+</a>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/Introduction_to_Pandas.gif" width="40px"></img>
+</a>
 <br>
 <br>
 <a href="https://leetcode.com/ankitjha2603/">
-    <img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity"></img>
-    <!---<img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=contest"></img>-->
+    <!--<img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity"></img>-->
+    <img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=contest"></img>
 <a>
 
 
