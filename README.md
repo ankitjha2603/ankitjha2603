@@ -57,11 +57,11 @@
 ## 🌐 Online Presence
 
 - **Website:** [ankitjha2603.github.io](https://ankitjha2603.github.io/)
-- **Website:** [ankitjha2603](https://linkedin.com/in/ankitjha2603)
+- **linkedin:** [ankitjha2603](https://linkedin.com/in/ankitjha2603)
 - **YouTube:** [CognitiveAnkit](https://www.youtube.com/@cognitiveAnkit)
 - **Instagram:** [cognitiveAnkit](https://www.instagram.com/cognitiveAnkit/)
 - **Email:** <a href="mailto:ankitjha2603@gmail.com">ankitjha2603@gmail.com</a>
 
-<!--
+<!---------------------->
+<!---------------------->
 
--->
