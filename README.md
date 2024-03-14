@@ -23,16 +23,16 @@ ankit.work()
 
 ## 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-ankitjha2603-brightgreen)](https://leetcode.com/ankitjha2603/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-ankitjha2603-blue)](https://auth.geeksforgeeks.org/user/ankitjha2603)
+- **LeetCode:** [ankitjha2603](https://leetcode.com/ankitjha2603/)
+- **GeeksforGeeks:** [ankitjha2603](https://auth.geeksforgeeks.org/user/ankitjha2603)
 
 ## 🌐 Online Presence
 
-[![Website](https://img.shields.io/badge/Website-ankitjha2603.github.io-yellow)](https://ankitjha2603.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ankitjha2603-blue)](https://linkedin.com/in/ankitjha2603)
-[![YouTube](https://img.shields.io/badge/YouTube-CognitiveAnkit-red)](https://www.youtube.com/@cognitiveAnkit)
-[![Instagram](https://img.shields.io/badge/Instagram-cognitiveAnkit-orange)](https://www.instagram.com/cognitiveAnkit/)
-[![Email](https://img.shields.io/badge/Email-ankitjha2603%40gmail.com-lightgrey)](mailto:ankitjha2603@gmail.com)
+- **Website:** [ankitjha2603.github.io](https://ankitjha2603.github.io/)
+- **linkedin:** [ankitjha2603](https://linkedin.com/in/ankitjha2603)
+- **YouTube:** [CognitiveAnkit](https://www.youtube.com/@cognitiveAnkit)
+- **Instagram:** [cognitiveAnkit](https://www.instagram.com/cognitiveAnkit/)
+- **Email:** <a href="mailto:ankitjha2603@gmail.com">ankitjha2603@gmail.com</a>
 
 
 <!--
