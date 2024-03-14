@@ -3,7 +3,7 @@
 </p>
 
 ```python
-from world import expert as ankit
+from world import coder as ankit
 ankit.work()
 ```
 
