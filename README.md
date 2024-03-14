@@ -10,27 +10,7 @@ ankit.work()
 <!------------------------------------------>
 <!-- SECTION:  leetcode badge-->
 
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/2024-50.gif" width="30px"></img>
-</a>
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/2024-02.gif" width="30px"></img>
-</a>
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/2024-01.gif" width="30px"></img>
-</a>
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/LeetCode_75.gif" width="30px"></img>
-</a>
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/Top_100_Liked.gif" width="30px"></img>
-</a>
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/Top_Interview_150.gif" width="30px"></img>
-</a>
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/Introduction_to_Pandas.gif" width="30px"></img>
-</a>
+
 <br>
 <br>
 <a href="https://leetcode.com/ankitjha2603/">
@@ -61,6 +41,30 @@ ankit.work()
 <!---------------------->
 
 <!--
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/2024-50.gif" width="30px"></img>
+</a>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/2024-02.gif" width="30px"></img>
+</a>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/2024-01.gif" width="30px"></img>
+</a>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/LeetCode_75.gif" width="30px"></img>
+</a>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/Top_100_Liked.gif" width="30px"></img>
+</a>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/Top_Interview_150.gif" width="30px"></img>
+</a>
+<a href="https://leetcode.com/ankitjha2603/">
+    <img src="leetcode_badge/Introduction_to_Pandas.gif" width="30px"></img>
+</a>
+
+
+
 ```javascript
 import { expert as ankit } from 'world';
 ankit.work();
