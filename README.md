@@ -13,27 +13,6 @@ ankit.work()
  - More than 22+ projects
 <!------------------------------------------>
 <!-- SECTION:  leetcode badge-->
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/2024-50.gif" width="40px"></img>
-</a>
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/2024-02.gif" width="40px"></img>
-</a>
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/2024-01.gif" width="40px"></img>
-</a>
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/LeetCode_75.gif" width="40px"></img>
-</a>
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/Top_100_Liked.gif" width="40px"></img>
-</a>
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/Top_Interview_150.gif" width="40px"></img>
-</a>
-<a href="https://leetcode.com/ankitjha2603/">
-    <img src="leetcode_badge/Introduction_to_Pandas.gif" width="40px"></img>
-</a>
 <br>
 <a href="https://leetcode.com/ankitjha2603/">
     <!--<img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity"></img>-->
