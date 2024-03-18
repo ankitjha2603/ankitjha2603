@@ -2,15 +2,17 @@
   <img src="thumbnail.png" alt="ankitjha2603">
 </p>
 
+## About Me
+- 🔭 I’m currently working on #210DayCodeChange with LeetCode.
+- 🌱 I’m currently learning Blockchain 🔗.
+- 👨‍💻 Developer > CP (Competitive Programming)
+- 🐍 Python & JavaScript Developer
+- 🔝 Top 30 Global Rank on GeeksforGeeks
+- 🛠️ More than 22+ projects
 ```python
 from world import coder as ankit
 ankit.work()
 ```
-
- - Developer > CP
- - Python & JavaScript Developer
- - Top 30 Global Rank on geeksforgeeks
- - More than 22+ projects
 <!------------------------------------------>
 <!-- SECTION:  leetcode badge-->
 <br>
