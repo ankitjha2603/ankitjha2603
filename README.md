@@ -7,6 +7,10 @@ from world import coder as ankit
 ankit.work()
 ```
 
+ - Developer > CP
+ - Python & JavaScript Developer
+ - Top 30 Global Rank on geeksforgeeks
+ - More than 22+ projects
 <!------------------------------------------>
 <!-- SECTION:  leetcode badge-->
 <a href="https://leetcode.com/ankitjha2603/">
