@@ -40,8 +40,8 @@ ankit.work()
 - **Instagram:** [cognitiveAnkit](https://www.instagram.com/cognitiveAnkit/)
 - **Email:** <a href="mailto:ankitjha2603@gmail.com">ankitjha2603@gmail.com</a>
 
-[![](https://visitcount.itsvg.in/api?id=ankitjha2603&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!--[![](https://visitcount.itsvg.in/api?id=ankitjha2603&icon=0&color=0)](https://visitcount.itsvg.in)-->
+[![](https://visitcount.itsvg.in/api?id=ankitjha2603&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!--
 <a href="https://leetcode.com/ankitjha2603/">
     <img src="leetcode_badge/2024-50.gif" width="40px"></img>
