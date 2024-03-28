@@ -20,9 +20,8 @@ ankit.work()
 <a href="https://leetcode.com/ankitjha2603/">
     <!--<img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity"></img>-->
     <img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=contest"></img>
+    <img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=heatmap&height=400"></img>
 <a>
-
-
 <!------------------------------------------>
 
 <!------------------------------------------>
