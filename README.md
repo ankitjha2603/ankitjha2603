@@ -22,35 +22,15 @@ ankit.work()
 <br>
 
 <div>
-    <a href="https://leetcode.com/ankitjha2603/">
-        <img 
-        class="past"
-        src="leetcode_badge_img/Knight.png" width="60px"></img>
-    </a>
-    <a href="https://leetcode.com/ankitjha2603/">
-        <img src="leetcode_badge_img/2024-50-lg.png" width="40px"></img>
-    </a>
-    <a href="https://leetcode.com/ankitjha2603/">
-        <img src="leetcode_badge_img/dcc-2024-3.png" width="40px"></img>
-    </a>
-    <a href="https://leetcode.com/ankitjha2603/">
-        <img src="leetcode_badge_img/dcc-2024-2.png" width="40px"></img>
-    </a>
-    <a href="https://leetcode.com/ankitjha2603/">
-        <img src="leetcode_badge_img/dcc-2024-1.png" width="40px"></img>
-    </a>
-    <a href="https://leetcode.com/ankitjha2603/">
-        <img src="leetcode_badge_img/LeetCode_75.png" width="40px"></img>
-    </a>
-    <a href="https://leetcode.com/ankitjha2603/">
-        <img src="leetcode_badge_img/Top_100_Liked.png" width="40px"></img>
-    </a>
-    <a href="https://leetcode.com/ankitjha2603/">
-        <img src="leetcode_badge_img/Top_100_Liked-1.png" width="40px"></img>
-    </a>
-    <a href="https://leetcode.com/ankitjha2603/">
-        <img src="leetcode_badge_img/Introduction_to_Pandas_Badge.png" width="40px"></img>
-    </a>
+  <img src="leetcode_badge_img/knight.png" width="60px" class="past" ></img>
+  <img src="leetcode_badge_img/2024-50-lg.png" width="40px"></img>
+  <img src="leetcode_badge_img/dcc-2024-3.png" width="40px"></img>
+  <img src="leetcode_badge_img/dcc-2024-2.png" width="40px"></img>
+  <img src="leetcode_badge_img/dcc-2024-1.png" width="40px"></img>
+  <img src="leetcode_badge_img/LeetCode_75.png" width="40px"></img>
+  <img src="leetcode_badge_img/Top_100_Liked.png" width="40px"></img>
+  <img src="leetcode_badge_img/Top_100_Liked-1.png" width="40px"></img>
+  <img src="leetcode_badge_img/Introduction_to_Pandas_Badge.png" width="40px"></img>
 </div>
 <a href="https://leetcode.com/ankitjha2603/">
     <img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=contest"></img>
@@ -81,7 +61,6 @@ ankit.work()
 [![](https://visitcount.itsvg.in/api?id=ankitjha2603&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <style>
-
     .past{
         -webkit-filter: grayscale(100%); 
         filter: grayscale(100%);
