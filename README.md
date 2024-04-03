@@ -58,11 +58,4 @@ ankit.work()
 - **Instagram:** [cognitiveAnkit](https://www.instagram.com/cognitiveAnkit/)
 - **Email:** <a href="mailto:ankitjha2603@gmail.com">ankitjha2603@gmail.com</a>
 
-[![](https://visitcount.itsvg.in/api?id=ankitjha2603&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<style>
-    .past{
-        -webkit-filter: grayscale(100%); 
-        filter: grayscale(100%);
-    }
-</style>
+[![](https://visitcount.itsvg.in/api?id=ankitjha2603&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)9
