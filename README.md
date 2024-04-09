@@ -23,6 +23,7 @@ ankit.work()
 
 <div>
   <img src="leetcode_badge_img/knight.png" width="60px" class="past" ></img>
+  <img src="leetcode_badge_img/2024-100-lg.png" width="40px"></img>
   <img src="leetcode_badge_img/2024-50-lg.png" width="40px"></img>
   <img src="leetcode_badge_img/dcc-2024-3.png" width="40px"></img>
   <img src="leetcode_badge_img/dcc-2024-2.png" width="40px"></img>
