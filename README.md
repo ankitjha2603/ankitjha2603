@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🧑‍💻 Knight @Leetcode (900+ problems)
+- 🧑‍💻 Knight @Leetcode (1000+ problems)
 - 🔭 I’m currently working on #210DayCodeChange with LeetCode.
 - 🌱 I’m currently learning Blockchain 🔗.
 - 👨‍💻 Developer > CP (Competitive Programming)
