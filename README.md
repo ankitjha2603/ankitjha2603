@@ -30,6 +30,7 @@ ankit.work()
   <img src="leetcode_badge_img/dcc-2024-1.png" width="40px"></img>
   <img src="leetcode_badge_img/LeetCode_75.png" width="40px"></img>
   <img src="leetcode_badge_img/Top_100_Liked.png" width="40px"></img>
+  <img src="leetcode_badge_img/Top_SQL_50.png" width="40px"></img>
   <img src="leetcode_badge_img/Top_100_Liked-1.png" width="40px"></img>
   <img src="leetcode_badge_img/Introduction_to_Pandas_Badge.png" width="40px"></img>
 </div>
