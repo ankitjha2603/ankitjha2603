@@ -1,3 +1,11 @@
+[![How to Start Programming and Begin Problem-Solving](https://img.shields.io/badge/Article-How_to_Start_Programming_and_Begin_Problem_Solving-blue.svg)](https://www.linkedin.com/pulse/how-start-programming-begin-problem-solving-practical-ankit-kumar-jha-cehnf/?trackingId=pG%2FDe4xvQgCVF%2Bd%2FdMOWmg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3Bf1EODQFzQqamEdTrcuMZFw%3D%3D)
+
+[![Book of luck](https://img.shields.io/badge/Article-Book_of_luck-blue.svg)](https://www.linkedin.com/pulse/book-luck-ankit-kumar-jha-cdycf/?trackingId=HVBWy0HZQj2Zadly3gbz9w%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3Bf1EODQFzQqamEdTrcuMZFw%3D%3D)
+
+[![The 3-Page Productivity Hack: Prioritize & Organize Your Workload](https://img.shields.io/badge/Article-The_3_Page_Productivity_Hack-blue.svg)](https://www.linkedin.com/pulse/3-page-productivity-hack-prioritize-organize-your-ankit-kumar-jha-mcgwf/?trackingId=xomdc5WiQVSN1%2FqqR%2BEK5A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3Bf1EODQFzQqamEdTrcuMZFw%3D%3D)
+
+[![Optimized version of the Sieve of Eratosthenes](https://img.shields.io/badge/Article-Optimized_version_of_the_Sieve_of_Eratosthenes-blue.svg)](https://www.linkedin.com/pulse/optimized-version-sieve-eratosthenes-generating-prime-ankit-kumar-jha-m3bpc/?trackingId=mfWa6ZLJQDilYPICWpq16A%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3Bf1EODQFzQqamEdTrcuMZFw%3D%3D)
+
 <img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity"></img>
 [![](https://visitcount.itsvg.in/api?id=ankitjha2603&icon=0&color=0)](https://visitcount.itsvg.in)
 
