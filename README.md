@@ -7,7 +7,7 @@ Passionate about leveraging Python and JavaScript to tackle complex data challen
 
 ## About Me
 
-- 🧑‍💻 Knight @Leetcode (1000+ problems)
+- 🧑‍💻 Knight @Leetcode (1100+ problems)
 - 🔭 I’m currently working on #210DayCodeChange with LeetCode.
 - 🌱 I’m currently learning Blockchain 🔗.
 - 👨‍💻 Developer > CP (Competitive Programming)
