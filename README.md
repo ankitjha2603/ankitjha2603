@@ -46,11 +46,13 @@ ankit.work()
 
 | Sno | Title                                                         | Link                                                                                                                          | Date of Publish |
 | --- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------| --------------- |
-| 1   | Understanding Depression: Beyond the Myths and Misconceptions | [Read Article](https://www.linkedin.com/pulse/understanding-depression-beyond-myths-misconceptions-ankit-kumar-jha-bqd1f)     | May 4, 2024     |
-| 2   | How to Start Programming and Begin Problem-Solving            | [Read Article](https://www.linkedin.com/pulse/how-start-programming-begin-problem-solving-practical-ankit-kumar-jha-cehnf)    | Apr 21, 2024    |
-| 3   | Book of Luck                                                  | [Read Article](https://www.linkedin.com/pulse/book-luck-ankit-kumar-jha-cdycf)                                                | Apr 13, 2024    |
-| 4   | The 3-Page Productivity Hack                                  | [Read Article](https://www.linkedin.com/pulse/3-page-productivity-hack-prioritize-organize-your-ankit-kumar-jha-mcgwf)        | Apr 1, 2024     |
-| 5   | Optimized version of the Sieve of Eratosthenes                | [Read Article](https://www.linkedin.com/pulse/optimized-version-sieve-eratosthenes-generating-prime-ankit-kumar-jha-m3bpc )   | Mar 21, 2024    |
+| 1   | Understanding Depression: Beyond the Myths and Misconceptions | [Read Article](https://www.linkedin.com/pulse/being-genius-journey-self-discovery-ankit-kumar-jha-pfxrf)                      | May 12, 2024    |
+| 2   | Understanding Depression: Beyond the Myths and Misconceptions | [Read Article](https://www.linkedin.com/pulse/understanding-depression-beyond-myths-misconceptions-ankit-kumar-jha-bqd1f)     | May 4, 2024     |
+| 3   | How to Start Programming and Begin Problem-Solving            | [Read Article](https://www.linkedin.com/pulse/how-start-programming-begin-problem-solving-practical-ankit-kumar-jha-cehnf)    | Apr 21, 2024    |
+| 4   | Book of Luck                                                  | [Read Article](https://www.linkedin.com/pulse/book-luck-ankit-kumar-jha-cdycf)                                                | Apr 13, 2024    |
+| 5   | The 3-Page Productivity Hack                                  | [Read Article](https://www.linkedin.com/pulse/3-page-productivity-hack-prioritize-organize-your-ankit-kumar-jha-mcgwf)        | Apr 1, 2024     |
+| 6   | Optimized version of the Sieve of Eratosthenes                | [Read Article](https://www.linkedin.com/pulse/optimized-version-sieve-eratosthenes-generating-prime-ankit-kumar-jha-m3bpc )   | Mar 21, 2024    |
+
 
 
 <!------------------------------------------>
