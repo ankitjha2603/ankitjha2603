@@ -3,7 +3,7 @@
 </p>
 
 ## Summary
-Passionate about leveraging Python and JavaScript to tackle complex data challenges. With a solid grounding in data structure, I earned the prestigious knight badge on LeetCode in just 5 contests over 3 weeks. I excel at grasping and applying complex concepts effortlessly. My deep understanding of data and data structures enables me to swiftly adapt and learn new methodologies. Let's connect and explore how we can drive innovation together.
+Proficient in Python and possessing a strong foundation in software programming, I quickly grasp and apply complex concepts with ease. My deep understanding of data enables me to swiftly adapt and learn new methodologies.
 
 ## About Me
 
