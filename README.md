@@ -49,18 +49,18 @@ ankit.work()
 
 ## Articles/Publications
 
-| Sno | Title                                                         | Link                                                                                                                          | Date of Publish |
-| --- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------| --------------- |
-| 1   | Proposed Law: Transparency in Product Manufacturing and Ethical Labeling| [Read Article](https://medium.com/@ankitjha2603/proposed-law-transparency-in-product-manufacturing-and-ethical-labeling-bc4dd4add53c)                                       | July 28, 2024   |
-| 2   | Optimism and Realism                                          | [Read Article](https://medium.com/@ankitjha2603/optimism-and-realism-6b8edb2fcb8a)                                            | July 5, 2024   |
-| 1   | Cycle of Overthinking                                         | [Read Article](https://www.linkedin.com/pulse/cycle-overthinking-ankit-kumar-jha-1tsyf)                                       | June 22, 2024   |
-| 2   | Challenging Infinity                                          | [Read Article](https://medium.com/@ankitjha2603/challenging-infinity-be1b626c5a96)                                            | May 21, 2024    |
-| 3   | Being Genius: A Journey of Self-Discovery                     | [Read Article](https://www.linkedin.com/pulse/being-genius-journey-self-discovery-ankit-kumar-jha-pfxrf)                      | May 12, 2024    |
-| 4   | Understanding Depression: Beyond the Myths and Misconceptions | [Read Article](https://www.linkedin.com/pulse/understanding-depression-beyond-myths-misconceptions-ankit-kumar-jha-bqd1f)     | May 4, 2024     |
-| 5   | How to Start Programming and Begin Problem-Solving            | [Read Article](https://www.linkedin.com/pulse/how-start-programming-begin-problem-solving-practical-ankit-kumar-jha-cehnf)    | Apr 21, 2024    |
-| 6   | Book of Luck                                                  | [Read Article](https://www.linkedin.com/pulse/book-luck-ankit-kumar-jha-cdycf)                                                | Apr 13, 2024    |
-| 7   | The 3-Page Productivity Hack                                  | [Read Article](https://www.linkedin.com/pulse/3-page-productivity-hack-prioritize-organize-your-ankit-kumar-jha-mcgwf)        | Apr 1, 2024     |
-| 8   | Optimized version of the Sieve of Eratosthenes                | [Read Article](https://www.linkedin.com/pulse/optimized-version-sieve-eratosthenes-generating-prime-ankit-kumar-jha-m3bpc )   | Mar 21, 2024    |
+| Sno | Title                                                                   | Link                                                                                                                                   | Date of Publish |
+| --- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| 1   | Proposed Law: Transparency in Product Manufacturing and Ethical Labeling| [Read Article](https://medium.com/@ankitjha2603/proposed-law-transparency-in-product-manufacturing-and-ethical-labeling-bc4dd4add53c)  | July 28, 2024   |
+| 2   | Optimism and Realism                                                    | [Read Article](https://medium.com/@ankitjha2603/optimism-and-realism-6b8edb2fcb8a)                                                     | July 5, 2024    |
+| 1   | Cycle of Overthinking                                                   | [Read Article](https://www.linkedin.com/pulse/cycle-overthinking-ankit-kumar-jha-1tsyf)                                                | June 22, 2024   |
+| 2   | Challenging Infinity                                                    | [Read Article](https://medium.com/@ankitjha2603/challenging-infinity-be1b626c5a96)                                                     | May 21, 2024    |
+| 3   | Being Genius: A Journey of Self-Discovery                               | [Read Article](https://www.linkedin.com/pulse/being-genius-journey-self-discovery-ankit-kumar-jha-pfxrf)                               | May 12, 2024    |
+| 4   | Understanding Depression: Beyond the Myths and Misconceptions           | [Read Article](https://www.linkedin.com/pulse/understanding-depression-beyond-myths-misconceptions-ankit-kumar-jha-bqd1f)              | May 4, 2024     |
+| 5   | How to Start Programming and Begin Problem-Solving                      | [Read Article](https://www.linkedin.com/pulse/how-start-programming-begin-problem-solving-practical-ankit-kumar-jha-cehnf)             | Apr 21, 2024    |
+| 6   | Book of Luck                                                            | [Read Article](https://www.linkedin.com/pulse/book-luck-ankit-kumar-jha-cdycf)                                                         | Apr 13, 2024    |
+| 7   | The 3-Page Productivity Hack                                            | [Read Article](https://www.linkedin.com/pulse/3-page-productivity-hack-prioritize-organize-your-ankit-kumar-jha-mcgwf)                 | Apr 1, 2024     |
+| 8   | Optimized version of the Sieve of Eratosthenes                          | [Read Article](https://www.linkedin.com/pulse/optimized-version-sieve-eratosthenes-generating-prime-ankit-kumar-jha-m3bpc )            | Mar 21, 2024    |
 
 
 
