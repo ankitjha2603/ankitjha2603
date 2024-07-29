@@ -26,11 +26,9 @@ ankit.work()
 
 <div>
   <img src="leetcode_badge_img/knight.png" width="60px" class="past" ></img>
-  
   <img src="leetcode_badge_img/2024-200-lg.png" width="50px"></img>
   <img src="leetcode_badge_img/2024-100-lg.png" width="50px"></img>
   <img src="leetcode_badge_img/2024-50-lg.png" width="50px"></img>
-  
   <img src="leetcode_badge_img/dcc-2024-7.png" width="40px"></img>
   <img src="leetcode_badge_img/dcc-2024-6.png" width="40px"></img>
   <img src="leetcode_badge_img/dcc-2024-5.png" width="40px"></img>
@@ -38,7 +36,6 @@ ankit.work()
   <img src="leetcode_badge_img/dcc-2024-3.png" width="40px"></img>
   <img src="leetcode_badge_img/dcc-2024-2.png" width="40px"></img>
   <img src="leetcode_badge_img/dcc-2024-1.png" width="40px"></img>
-  
   <img src="leetcode_badge_img/LeetCode_75.png" width="40px"></img>
   <img src="leetcode_badge_img/Top_100_Liked.png" width="40px"></img>
   <img src="leetcode_badge_img/Top_SQL_50.png" width="40px"></img>
