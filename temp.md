@@ -9,6 +9,9 @@
 <img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=activity"></img>
 [![](https://visitcount.itsvg.in/api?id=ankitjha2603&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://leetcard.jacoblin.cool/ankitjha2603?ext=heatmap"></img>
+[![](https://visitcount.itsvg.in/api?id=ankitjha2603&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
 
 <a href="https://leetcode.com/ankitjha2603/">
