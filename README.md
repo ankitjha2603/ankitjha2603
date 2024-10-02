@@ -46,8 +46,8 @@ ankit.work()
 </a>
 <!------------------------------------------>
 
-## Articles/Publications
-
+<!-- ## Articles/Publications-->
+<!--
 | Sno | Title                                                                       | Link                                                                                                                                   | Date of Publish |
 | --- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 0   | शक्ति, भ्रष्टाचार, और समाज: एक अनचाहा चक्र                                       | [Read Article](https://medium.com/@ankitjha2603/%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF-%E0%A4%AD%E0%A5%8D%E0%A4%B0%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9C-%E0%A4%8F%E0%A4%95-%E0%A4%85%E0%A4%A8%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BE-%E0%A4%9A%E0%A4%95%E0%A5%8D%E0%A4%B0-f8de6adbab03)  | Aug 1, 2024   |
@@ -61,7 +61,7 @@ ankit.work()
 | 6   | Book of Luck                                                                | [Read Article](https://www.linkedin.com/pulse/book-luck-ankit-kumar-jha-cdycf)                                                         | Apr 13, 2024    |
 | 7   | The 3-Page Productivity Hack                                                | [Read Article](https://www.linkedin.com/pulse/3-page-productivity-hack-prioritize-organize-your-ankit-kumar-jha-mcgwf)                 | Apr 1, 2024     |
 | 8   | Optimized version of the Sieve of Eratosthenes                              | [Read Article](https://www.linkedin.com/pulse/optimized-version-sieve-eratosthenes-generating-prime-ankit-kumar-jha-m3bpc )            | Mar 21, 2024    |
-
+-->
 
 
 <!------------------------------------------>
