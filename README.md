@@ -6,7 +6,7 @@
 Proficient in Python and possessing a strong foundation in software programming, I quickly grasp and apply complex concepts with ease. My deep understanding of data enables me to swiftly adapt and learn new methodologies.
 
 ## About Me
-
+- CSE **AIR - 416** | **785 score** | 
 - 🧑‍💻 Knight @Leetcode (1400+ problems)
 - 🌱 I’m currently learning Blockchain 🔗.
 - 👨‍💻 Developer > CP (Competitive Programming)
