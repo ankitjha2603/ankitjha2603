@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="thumbnail.png" alt="ankitjha2603">
+  <img src="background photo.png" alt="ankitjha2603">
 </p>
 
 ## Summary
